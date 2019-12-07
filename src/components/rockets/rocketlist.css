@@ -1,0 +1,12 @@
+.rockets-title {
+    color: orange;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 30px;
+}
+
+.thin-line {
+    border-bottom: 1px solid orange;
+    width: 80vw;
+    margin-top: 5em;
+   ;
+}

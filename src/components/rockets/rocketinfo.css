@@ -1,0 +1,36 @@
+.rocket-background {
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url('https://upload.wikimedia.org/wikipedia/commons/7/7d/Mars_atmosphere.jpg');
+    height: 100vh;
+    position: relative;
+  
+    
+}
+
+.border-box {
+    border: 2px solid orange;
+    position: fixed;
+    height: 80vh;
+    width: 92vw;
+    margin-left: 3.4vw;
+    margin-right:3vw;
+    margin-top: 10vh;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(192, 122, 65, 0.9);
+
+}
+
+.rocket-pic {
+    width: 60vw;
+    height: auto
+}
+
+.statBox p {
+    color: orange;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.divide {
+    border-bottom: 1px solid orange;
+    width: 80vw;
+   ;
+}
